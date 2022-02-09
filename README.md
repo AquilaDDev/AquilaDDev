@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou Áquila
 - 👀 Sou um entusiasta no desenvolvimento de aplicativos web
-- 🌱 Atualmente estou estudando React.JS e Node.JS
+- 🌱 Atualmente estou estudando React.JS e Eletron
 - :smiley: Aqui estão alguns dos meus projetos e estudos. Espero que gostem!
 <!---
 AquilaDDev/AquilaDDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
